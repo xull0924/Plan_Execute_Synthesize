@@ -1,0 +1,5 @@
+# Core dependencies inferred from deep_research_from_notebook.py
+pydantic>=2.0
+langchain>=0.2
+langchain-community>=0.2
+langchain-deepseek>=1.0.1
